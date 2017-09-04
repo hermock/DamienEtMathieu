@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2017-09-04 20:10:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2017-07-29 22:11:42 +0200"
@@ -716,6 +722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2017-09-04 20:10:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2017-07-29 21:54:04 +0200"
@@ -845,6 +857,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2017-07-30 21:23:00 +0200",
+      "magma_cube": "2017-09-04 20:11:47 +0200",
       "slime": "2017-09-02 02:01:34 +0200",
       "skeleton": "2017-07-30 18:51:13 +0200",
       "zombie": "2017-07-29 22:36:32 +0200",
@@ -1095,6 +1108,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2017-09-04 20:10:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2017-07-30 19:32:38 +0200"
@@ -1104,6 +1123,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2017-07-30 21:29:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2017-09-04 20:10:03 +0200"
     },
     "done": true
   },
@@ -1269,6 +1294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2017-09-04 20:10:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2017-07-30 18:51:13 +0200"
@@ -1332,6 +1363,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2017-08-04 20:57:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2017-09-04 20:11:49 +0200"
     },
     "done": true
   },
