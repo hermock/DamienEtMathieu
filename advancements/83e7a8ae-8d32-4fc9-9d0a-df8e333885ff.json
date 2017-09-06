@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2017-09-06 19:50:30 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2017-07-29 22:11:42 +0200"
@@ -863,10 +869,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2017-09-04 21:20:33 +0200",
+      "wither_skeleton": "2017-09-06 19:51:15 +0200",
       "zombie_villager": "2017-07-30 21:23:00 +0200",
       "magma_cube": "2017-09-04 20:11:47 +0200",
       "slime": "2017-09-02 02:01:34 +0200",
       "skeleton": "2017-07-30 18:51:13 +0200",
+      "blaze": "2017-09-06 19:51:07 +0200",
       "zombie": "2017-07-29 22:36:32 +0200",
       "witch": "2017-07-30 19:46:56 +0200",
       "spider": "2017-07-29 21:44:26 +0200",
@@ -1520,6 +1528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2017-09-06 19:50:30 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2017-07-29 21:17:42 +0200"
@@ -1649,6 +1663,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2017-08-04 20:41:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2017-09-06 19:50:30 +0200"
     },
     "done": true
   },
