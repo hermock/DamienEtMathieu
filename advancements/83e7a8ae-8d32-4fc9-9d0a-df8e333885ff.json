@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2017-09-13 19:26:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2017-07-31 22:55:57 +0200"
@@ -468,6 +474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2017-09-13 19:26:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2017-07-30 21:29:26 +0200"
@@ -789,6 +801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2017-09-13 19:26:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2017-07-29 21:54:04 +0200"
@@ -937,6 +955,7 @@
       "skeleton": "2017-07-30 18:51:13 +0200",
       "blaze": "2017-09-06 19:51:07 +0200",
       "zombie": "2017-07-29 22:36:32 +0200",
+      "cave_spider": "2017-09-13 19:21:31 +0200",
       "witch": "2017-07-30 19:46:56 +0200",
       "spider": "2017-07-29 21:44:26 +0200",
       "ghast": "2017-09-05 20:22:01 +0200",
@@ -1350,6 +1369,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2017-07-30 19:42:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fence": {
+    "criteria": {
+      "has_planks": "2017-09-13 19:26:49 +0200"
     },
     "done": true
   },
@@ -1862,6 +1887,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2017-07-29 21:17:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_door": {
+    "criteria": {
+      "has_planks": "2017-09-13 19:26:49 +0200"
     },
     "done": true
   },
