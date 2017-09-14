@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2017-09-14 21:23:12 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2017-07-29 21:58:17 +0200"
@@ -224,6 +230,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2017-07-31 21:12:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2017-09-14 21:23:12 +0200"
     },
     "done": true
   },
@@ -678,6 +690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2017-09-14 21:23:12 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2017-07-31 21:21:01 +0200"
@@ -939,6 +957,7 @@
       "skeleton": "2017-08-01 18:09:35 +0200",
       "blaze": "2017-09-05 19:49:03 +0200",
       "zombie": "2017-07-31 20:22:15 +0200",
+      "cave_spider": "2017-09-14 21:20:10 +0200",
       "spider": "2017-08-01 17:44:03 +0200",
       "ghast": "2017-09-04 20:14:44 +0200",
       "creeper": "2017-07-30 22:39:26 +0200"
@@ -1780,6 +1799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2017-09-14 21:23:12 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2017-07-31 21:12:47 +0200"
@@ -1795,6 +1820,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2017-07-29 21:20:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2017-09-14 21:23:12 +0200"
     },
     "done": true
   },
